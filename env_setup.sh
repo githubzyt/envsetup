@@ -4,4 +4,4 @@
 #Ubuntu
 RPM_INSTALL_COMMAND="sudo apt install -y"
 
-${RPM_INSTALL_COMMAND} build-essential
+${RPM_INSTALL_COMMAND} build-essential gdb
